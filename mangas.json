@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Monster",
+        "type": "manga",
+        "year":1994,
+        "price": 75,
+        "author_id": "636730ea128591a926497ef7",
+        "imgExt": ".jpg",
+        "genres_id": ["6364a14b6b7aff56fe3ed3fe", "6364a14b6b7aff56fe3ed3ff"]
+    },
+    {
+        "name": "20th Century Boys",
+        "type": "manga",
+        "year":1999,
+        "price": 75,
+        "author_id": "636730ea128591a926497ef7",
+        "imgExt": ".webp",
+        "genres_id": ["636950b671f6797678f37c36", "636950ec71f6797678f37c37","6369510971f6797678f37c38"]
+    },
+    {
+        "name": "Solo Leveling",
+        "type": "manhwa",
+        "year":2016,
+        "price": 75,
+        "author_id": "636c4bfda6cd747e0a9d2f66",
+        "imgExt": ".jpg",
+        "genres_id": ["6364a14b6b7aff56fe3ed3fe", "6364a14b6b7aff56fe3ed400","6364a14b6b7aff56fe3ed3fd","6369510971f6797678f37c38","6364a14b6b7aff56fe3ed403"]
+    }
+]
